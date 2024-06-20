@@ -1,7 +1,7 @@
 # gender-data-exploration
 This is a project to practice data visualization skills as part of the Master in Geospatial Technologies.
 
-We explored data on income by gender and state in Brazil and Mexico. Through the visualizations, it is possible to see the spatial distribution of income by gender and also the relative (women/men) income.
+We explored data on income by gender and state in Brazil and Mexico. Through the visualizations, it is possible to see the spatial distribution of income by gender, the relative (women/men) income, and the participation in labor by gender.
 
 Check the notebook with the cell outputs at: https://nbviewer.org/github/rebeca53/gender-data-exploration/blob/main/Gender_Financial_Inclusion_in_Latin_America_%28Mexico_and_Brazil%29_Notebook.ipynb
 
